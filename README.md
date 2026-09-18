@@ -24,17 +24,20 @@ For Part 2, I added CSS styling and responsive design to my Part 1 website.
 **3.2 Relative Units:** Used em/rem for fonts and % for widths
 **3.3 Responsive Images:** Used `srcset` and `sizes` attributes
 
-## 4. Screenshots - Responsive Testing (Required for 3.4)
+## 4. Screenshots
 I tested using Chrome DevTools.
 
 ### Desktop View (1920px)
-![Desktop Screenshot](./images/screenshot-desktop.png)
+![Desktop Screenshot](<img width="872" height="739" alt="Screenshot 2026-09-18 184134" src="https://github.com/user-attachments/assets/95009416-d759-4ccf-8452-1cfd7f189e66" />
+)
 
 ### Tablet View (768px - iPad)
-![Tablet Screenshot](./images/screenshot-tablet.png)
+![Tablet Screenshot](<img width="925" height="710" alt="Screenshot 2026-09-18 184007" src="https://github.com/user-attachments/assets/ebcc6689-40ee-4c59-b666-bc7f2702a5c1" />
+)
 
 ### Mobile View (375px - iPhone SE)
-![Mobile Screenshot](./images/screenshot-mobile.png)
+![Mobile Screenshot](<img width="774" height="698" alt="Screenshot 2026-09-18 183602" src="https://github.com/user-attachments/assets/ae1d5b30-9c33-4580-a8c7-8a3314daf8fc" />
+)
 
 ## 5. References
 - W3Schools - CSS Flexbox - https://www.w3schools.com/css/css3_flexbox.asp
