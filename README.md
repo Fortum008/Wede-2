@@ -2,6 +2,7 @@
 
 **Student:** [ST10525183]
 **Module:** WEDE5020
+**Link:** https://fortum008.github.io/Wede-2/
 
 ## 1. Project Overview - Part 2
 For Part 2, I added CSS styling and responsive design to my Part 1 website.
